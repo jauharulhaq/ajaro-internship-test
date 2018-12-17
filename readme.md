@@ -1,0 +1,3 @@
+Website ini dibuat dengan menggunakan software teks editor notepad++ dan menggunakan server lokal xampp apache, .
+Bahasa pemrograman  menggunakan PHP (PHP Hypertext Preprocessor) kemudian karna memakai PHP maka harus menjalankan XamPP terlebih dahulu dan mengundangnya dengan mengetikkan localhost yang filenya harus disimpan di XamPP juga kemudian di htdocs.
+framework yang saya pakai adalah framework bootstrap.
